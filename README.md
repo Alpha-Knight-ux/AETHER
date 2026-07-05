@@ -1,74 +1,151 @@
 # AETHER
-AETHER
-The Voice of the Future
+<div align="center">
 
-An AI assistant for Windows that combines natural voice conversations,
-long-term memory, image generation, system control,
-and lightning-fast AI responses.
+# AETHER
 
-⬇ Download Latest Version
-📖 Documentation
-🐞 Report a Bug
-💡 Request a Feature
+### *The Voice of the Future*
 
----------------------------------------------------
+<img src="YOUR_LOGO.png" width="180">
 
-✨ Features
+An AI assistant for Windows that combines natural voice conversations, long-term memory, image generation, system control, and fast AI responses into a single desktop application.
 
-🎤 Natural Voice Conversations
+<p>
 
-🧠 Long-Term Memory
+<a href="https://github.com/Alpha-Knight-ux/AETHER/releases/latest">
+<img src="https://img.shields.io/github/v/release/Alpha-Knight-ux/AETHER?style=for-the-badge">
+</a>
 
-🖼 AI Image Generation
+<a href="https://github.com/Alpha-Knight-ux/AETHER/releases">
+<img src="https://img.shields.io/github/downloads/Alpha-Knight-ux/AETHER/total?style=for-the-badge">
+</a>
 
-🖥 Full Windows System Control
+<img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue?style=for-the-badge">
 
-📂 File & Folder Assistance
+<img src="https://img.shields.io/badge/Python-3.11-yellow?style=for-the-badge">
 
-⚡ Powered by Groq
+</p>
 
-🤖 Llama 3 Intelligence
+### ⭐ Download the latest version
 
----------------------------------------------------
+➡️ **https://github.com/Alpha-Knight-ux/AETHER/releases/latest**
 
-📸 Screenshots
+---
 
-(beautiful gallery)
+## ✨ Features
 
----------------------------------------------------
+🎤 **Natural Voice Conversations**
 
-🚀 Installation
+Talk to AETHER naturally using your microphone.
 
-1. Download Aether_setup.exe
-2. Run the installer
-3. Launch AETHER
-4. Start chatting
+---
 
----------------------------------------------------
+🧠 **Long-Term Memory**
 
-💻 System Requirements
+Remembers important information during conversations.
 
-Windows 10 / Windows 11
-64-bit
-Internet connection
-Microphone (recommended)
+---
 
----------------------------------------------------
+🖼️ **AI Image Generation**
 
-🛣 Roadmap
+Generate images directly inside AETHER.
 
-✔ Voice Assistant
-✔ Memory
-✔ Image Generation
-✔ Windows Control
-⬜ Android App
-⬜ Microsoft Store
-⬜ Custom AI Model
-⬜ Vision
-⬜ Multi-language Support
+---
 
----------------------------------------------------
+🖥️ **Full Windows System Control**
 
-👨‍💻 Developer
+Open apps, control the system, and automate common tasks.
 
-Made with ❤️ by Aarush Anish
+---
+
+📂 **File & Folder Assistant**
+
+Search, organize, and interact with your files.
+
+---
+
+⚡ **Lightning Fast**
+
+Powered by **Groq API** for ultra-fast AI responses.
+
+---
+
+🤖 **Modern AI**
+
+Built using **Llama 3** with powerful desktop capabilities.
+
+---
+
+# 📸 Screenshots
+
+> *(Replace these with your screenshots.)*
+
+| Home | Chat |
+|------|------|
+| ![](screenshots/home.png) | ![](screenshots/chat.png) |
+
+| Voice | Image Generation |
+|------|------|
+| ![](screenshots/voice.png) | ![](screenshots/image.png) |
+
+| Memory | Settings |
+|------|------|
+| ![](screenshots/memory.png) | ![](screenshots/settings.png) |
+
+---
+
+# 🚀 Installation
+
+1. Download **Aether_setup.exe** from the latest release.
+2. Run the installer.
+3. Launch **AETHER**.
+4. Enter your Groq API Key.
+5. Start chatting!
+
+---
+
+# 💻 System Requirements
+
+| Requirement | Minimum |
+|-------------|----------|
+| Operating System | Windows 10 / Windows 11 |
+| Architecture | 64-bit |
+| RAM | 8 GB |
+| Storage | 500 MB |
+| Internet | Required |
+| Microphone | Recommended |
+
+---
+
+# 🛣 Roadmap
+
+- ✅ Voice Assistant
+- ✅ Long-Term Memory
+- ✅ Image Generation
+- ✅ Windows System Control
+- ⬜ Android App
+- ⬜ Microsoft Store
+- ⬜ Custom AI Model
+- ⬜ Vision Support
+- ⬜ Multi-language Support
+
+---
+
+# ❤️ Support
+
+If you enjoy AETHER,
+
+⭐ **Star this repository**
+
+🐛 Report bugs using GitHub Issues
+
+💡 Suggest new features
+
+---
+
+# 👨‍💻 Developer
+
+Created with ❤️ by **Aarush Anish**
+
+© 2026 Aarush Anish. All rights reserved.
+
+</div>
