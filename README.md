@@ -10,7 +10,19 @@
 An AI assistant for Windows that combines natural voice conversations, long-term memory, image generation, system control, and fast AI responses into a single desktop application.
 
 <p>
+<p align="center">
 
+<img src="https://img.shields.io/github/v/release/Alpha-Knight-ux/AETHER?style=for-the-badge">
+
+<img src="https://img.shields.io/github/downloads/Alpha-Knight-ux/AETHER/total?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Python-3.11-yellow?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge">
+
+</p>
 <a href="https://github.com/Alpha-Knight-ux/AETHER/releases/latest">
 <img src="https://img.shields.io/github/v/release/Alpha-Knight-ux/AETHER?style=for-the-badge">
 </a>
