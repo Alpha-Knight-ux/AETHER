@@ -23,7 +23,7 @@ An AI assistant for Windows that combines natural voice conversations, long-term
 
 </p>
 <p align="center">
-  <img src="assets/banner.png" alt="AETHER Banner" width="100%">
+  <img src="assets/Banner.png" alt="AETHER Banner" width="100%">
 </p>
 ### ⭐ Download the latest version
 
