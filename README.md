@@ -22,7 +22,9 @@ An AI assistant for Windows that combines natural voice conversations, long-term
 <img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge">
 
 </p>
-
+<p align="center">
+  <img src="assets/banner.png" alt="AETHER Banner" width="100%">
+</p>
 ### ⭐ Download the latest version
 
 ➡️ **https://github.com/Alpha-Knight-ux/AETHER/releases/latest**
