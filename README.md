@@ -75,7 +75,6 @@ Built using **Llama 3** with powerful desktop capabilities.
 
 # 📸 Screenshots
 
-> *(Replace these with your screenshots.)*
 
 | Home | Chat |
 |------|------|
