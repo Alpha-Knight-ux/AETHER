@@ -5,7 +5,7 @@
 
 ### *The Voice of the Future*
 
-<img src="YOUR_LOGO.png" width="180">
+<img src="aether_logo.png" width="180">
 
 An AI assistant for Windows that combines natural voice conversations, long-term memory, image generation, system control, and fast AI responses into a single desktop application.
 
