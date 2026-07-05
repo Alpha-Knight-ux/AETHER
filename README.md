@@ -65,13 +65,13 @@ Search, organize, and interact with your files.
 
 ⚡ **Lightning Fast**
 
-Powered by **Groq API** for ultra-fast AI responses.
+Powered by **AI** for ultra-fast AI responses.
 
 ---
 
 🤖 **Modern AI**
 
-Built using **Llama 3** with powerful desktop capabilities.
+Built using **ARTIFICIAL INTALLIGENCE** with powerful desktop capabilities.
 
 ---
 
@@ -97,8 +97,7 @@ Built using **Llama 3** with powerful desktop capabilities.
 1. Download **Aether_setup.exe** from the latest release.
 2. Run the installer.
 3. Launch **AETHER**.
-4. Enter your Groq API Key.
-5. Start chatting!
+4. Start chatting!
 
 ---
 
