@@ -78,9 +78,9 @@ Built using **ARTIFICIAL INTALLIGENCE** with powerful desktop capabilities.
 |------|------|
 | ![](screenshots/voice.png) | ![](screenshots/image.png) |
 
-| Memory | Settings |
-|------|------|
-| ![](screenshots/memory.png) | ![](screenshots/settings.png) |
+| Settings |
+|------|
+| ![](screenshots/settings.png) |
 
 ---
 
