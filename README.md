@@ -31,14 +31,6 @@ An AI assistant for Windows that combines natural voice conversations, long-term
 
 ---
 
-## ✨ Features
-
-🎤 **Natural Voice Conversations**
-
-Talk to AETHER naturally using your microphone.
-
----
-
 🧠 **Long-Term Memory**
 
 Remembers important information during conversations.
