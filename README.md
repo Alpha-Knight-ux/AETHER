@@ -100,7 +100,7 @@ Built using **ARTIFICIAL INTALLIGENCE** with powerful desktop capabilities.
 | Operating System | Windows 10 / Windows 11 |
 | Architecture | 64-bit |
 | RAM | 8 GB |
-| Storage | 500 MB |
+| Storage | 150 MB |
 | Internet | Required |
 | Microphone | Recommended |
 
